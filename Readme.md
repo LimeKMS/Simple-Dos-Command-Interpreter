@@ -1,7 +1,7 @@
-Simple Dos command interpreter that can treverse your files.
+Simple Dos command interpreter that can traverse your files.
 
 Commands
-dir - prints directory
+dir - prints directory 
 cd - change directory
 del - deletes file
 pwd - current directory path
